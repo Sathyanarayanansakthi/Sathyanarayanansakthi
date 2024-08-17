@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathya Narayanan.S</h1>
+<h1 align="center">Hi 👋,<i> I'm Sathya Narayanan.S</i></h1>
 <h3 align="center">A Full Stack Developer | Tech Lover  </h3>
 
 # 💻 Tech Stack:
