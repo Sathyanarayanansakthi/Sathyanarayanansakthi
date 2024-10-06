@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,<i> I'm Sathya Narayanan Sivakumar</i></h1>
 <h3 align="center">A Full Stack Developer | Tech Lover  </h3>
 <h5>SKASC</h5>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sathyanarayanansakthi?igsh=MWFzbTZzemNpeXppZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sathya-narayanans) 
 
 
 sathya-narayanan-site.vercel.app
@@ -20,5 +18,3 @@ sathya-narayanan-site.vercel.app
 [![](https://visitcount.itsvg.in/api?id=Sathyanarayanansakthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-[![](https://visitcount.itsvg.in/api?id=Sathyanarayanansakthi &icon=0&color=0)](https://visitcount.itsvg.
