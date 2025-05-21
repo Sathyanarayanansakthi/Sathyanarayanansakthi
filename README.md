@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋,<i> I'm Sathya Narayanan Sivakumar</i></h1>
+<h1 align="center">Hi 👋,<i> I'm Sathya Narayanan </i></h1>
 <h3 align="center">A Full Stack Developer | Tech Lover</h3>
 
 🎓 SKASC 
