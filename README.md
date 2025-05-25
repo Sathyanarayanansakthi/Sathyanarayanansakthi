@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋,<i> I'm Sathya Narayanan </i></h1>
 <h3 align="center">A Full Stack Developer | Tech Lover</h3>
 
-🎓 SKASC 
+
+🎓 EX SKASC 
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
