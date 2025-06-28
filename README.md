@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sathya Narayanan</h1>
-<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sathya Narayanan.S</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Open to Work</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Full Stack Developer** with a love for building scalable, high-performance web applications and solving real-world problems with clean code.
+I'm a motivated and detail-oriented **Full Stack Developer** actively seeking **internship or full-time opportunities** in web development and backend engineering.
 
-- 🎓 **Education:** B.Sc Computer Science, Sri Krishna Arts and Science College (SKASC), Coimbatore  
-- 💼 **What I Do:** I develop full-stack applications using React, FastAPI, and PostgreSQL. I specialize in role-based authentication systems, feedback dashboards, and real-time web applications.
-- ⚙️ **Tools I Love:** VS Code, Postman, Docker, Git, Swagger  
-- 🧠 **Currently Learning:** Redux Toolkit, Next.js, Advanced TypeScript, DevOps & CI/CD  
-- 🚀 **Career Goal:** To become a world-class Software Engineer contributing to impactful projects and scalable systems  
-- 🤝 **Open to:** Internships | Freelance Projects | Remote Developer Roles  
+- 🎓 **Education:** B.Sc in Computer Science from Sri Krishna Arts and Science College (SKASC), Coimbatore  
+- 💻 **Passion:** Building clean, scalable, and efficient web applications using modern tools and frameworks  
+- 🚀 **Career Goal:** To join a dynamic and growth-oriented company where I can contribute to real-world products and continue learning  
+- 🧠 **Currently Learning:** Redux Toolkit, Next.js, and DevOps fundamentals  
+- 🤝 **Available For:** Full-time roles, internships, and freelance projects (On-site or Remote)
 
 ---
 
@@ -35,24 +34,6 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, hig
 
 ---
 
-## 🛠️ Highlight Projects
-
-### 🔐 **Role-Based Authentication System**
-- Tech: FastAPI, PostgreSQL, React, JWT
-- A secure full-stack system where Managers can manage their teams and Employees can view assigned feedback.
-- Features: Token-based auth, Manager-Employee relationships, secure APIs.
-
-### 💬 **Feedback Management Dashboard**
-- Tech: FastAPI, React, Tailwind, PostgreSQL
-- A productivity tool for teams where Managers can give structured feedback and Employees can acknowledge them.
-- Features: Sentiment analysis, feedback history, PDF export, tagging system.
-
-### 📦 **Dockerized Web App Deployment**
-- Tech: Docker, FastAPI, PostgreSQL
-- Created containerized development environments and deployed them using Docker Compose.
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathya-narayanans)
@@ -66,4 +47,3 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, hig
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
