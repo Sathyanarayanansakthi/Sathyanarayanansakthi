@@ -7,7 +7,7 @@
 
 I'm a motivated and detail-oriented **Full Stack Developer** actively seeking **internship or full-time opportunities** in web development and backend engineering.
 
-- 🎓 **Education:** B.Sc in Computer Science from Sri Krishna Arts and Science College (SKASC), Coimbatore  
+- 🎓 **Education:** B.Sc in Computer Science with Cognitive Systems from Sri Krishna Arts and Science College (SKASC), Coimbatore  
 - 💻 **Passion:** Building clean, scalable, and efficient web applications using modern tools and frameworks  
 - 🚀 **Career Goal:** To join a dynamic and growth-oriented company where I can contribute to real-world products and continue learning  
 - 🧠 **Currently Learning:** Redux Toolkit, Next.js, and DevOps fundamentals  
