@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581090700227-1e8a661c9a1b?auto=format&fit=crop&w=1400&q=80" alt="AI Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sathya Narayanan.S</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Open to Work</h3>
 
@@ -45,5 +49,3 @@ I'm a motivated and detail-oriented **Full Stack Developer** actively seeking **
 ## ✍️ Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
