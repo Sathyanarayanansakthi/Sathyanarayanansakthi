@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581093588401-7b6b21c5093f?auto=format&fit=crop&w=1200&q=80" alt="AI Developer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sathya Narayanan.S</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Open to Work</h3>
