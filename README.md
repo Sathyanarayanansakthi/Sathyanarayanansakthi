@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581090700227-1e8a661c9a1b?auto=format&fit=crop&w=1400&q=80" alt="AI Developer Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1581093588401-7b6b21c5093f?auto=format&fit=crop&w=1200&q=80" alt="AI Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sathya Narayanan.S</h1>
